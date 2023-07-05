@@ -1,1 +1,1 @@
-{"version": "4.0.0", "sublime_text": "*", "platforms": ["*"], "dependencies": [], "url": "https://github.com/NikolaiVChr/sublime-nasal", "description": "Nasal syntax highlighting for Sublime Text 4"}
+{"version": "4.0.1", "sublime_text": "*", "platforms": ["*"], "dependencies": [], "url": "https://github.com/NikolaiVChr/sublime-nasal", "description": "Nasal syntax highlighting for Sublime Text 4"}
